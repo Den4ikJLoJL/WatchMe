@@ -5,3 +5,22 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: #333231;
+}
+
+
+
+
+
+
+
+.index__home .index__home-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.index__home .index__home-container .index__home-imgContainer img{
+    width: 700px;
+    height: 700px;
+}
