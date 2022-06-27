@@ -5,3 +5,10 @@
     box-sizing: border-box;
 }
 
+.index__navbar{
+    display: flex;
+    justify-content: space-around;
+    height: 25px;
+    margin-top: 12px;
+    font-size: 20px;
+}
