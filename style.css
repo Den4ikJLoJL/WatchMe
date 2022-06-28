@@ -40,13 +40,6 @@ body{
     color: white;
 }
 
-.index__navbar-icon{
-    
-}
-
-.index__navbar-linkContainer{
-}
-
 .index__navbar-link:hover{
     color:#333231;
 }
@@ -67,3 +60,14 @@ body{
     font-size: 4rem;
 }
 
+.index__home-description{
+    color: #fff;
+    font-size: 1.5vh;
+}
+
+.index__home-descriptionButton{
+    background-color: #1b1b1b;
+    margin-top: 15px;
+    width: 120px;
+    height: 40px;
+}
