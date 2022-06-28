@@ -130,8 +130,7 @@ body{
     display: flex;
     justify-content: center;
     background-color: #1b1b1b;
-    height: 90px;
-    margin-top: 20px;
+    height: 65px;
 }
 
 #index__footer-github-icon{
@@ -149,7 +148,6 @@ body{
     margin-left: 100px;
     font-size: 20px;
     color: white;
-
 }
 
 .index__footer-textCreators{
