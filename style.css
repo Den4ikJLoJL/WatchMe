@@ -130,7 +130,7 @@ body{
     display: flex;
     justify-content: center;
     background-color: #1b1b1b;
-    height: 50px;
+    height: 90px;
     margin-top: 20px;
 }
 
@@ -138,11 +138,21 @@ body{
     color: white;
     text-decoration: none;
     font-size: 20px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
-.index__footer-text{
-    margin-left: 20px;
+.index__footer-icons{
+    margin-left: 50px;
+}
+
+.index__footer-textFollow{
+    margin-left: 100px;
     font-size: 20px;
     color: white;
+
+}
+
+.index__footer-textCreators{
+    color: white;
+    font-size: 20px;
 }
