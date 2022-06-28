@@ -92,3 +92,22 @@ body{
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+.index__footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1b1b1b;
+    height: 50px;
+}
