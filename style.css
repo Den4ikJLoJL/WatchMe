@@ -18,6 +18,10 @@ body{
     margin-bottom: 100%;
 }
 
+.index__navbar-icon a{
+    padding-left: 5px;
+}
+
 .index__navbar{
     display: flex;
     justify-content: space-between;
@@ -74,10 +78,11 @@ body{
     justify-content: center;
     padding-top: 7px;
     cursor: pointer;
+    border-radius: 5px;
 }
 
 .index__home-descriptionButton:hover{
-    /* background-color: ; */
+    background-color: #484745;
 }
 
 .index__home-descriptionButtonLink{
