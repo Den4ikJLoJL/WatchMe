@@ -46,6 +46,10 @@ body{
     margin-top: 2px;
 }
 
+.index__navbar-link:hover{
+    color:red;
+}
+
 .index__home .index__home-container{
     display: flex;
     justify-content: center;
