@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
 *{
     top:0; left:0; right:0;
     margin:0; padding:0;
     border: none;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
 body{
@@ -45,7 +48,8 @@ body{
 
 .index__home .index__home-container{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    padding: 9vh;
 }
 
 .index__home .index__home-container .index__home-imgContainer img{
