@@ -39,15 +39,14 @@ body{
 }
 
 .index__navbar-icon{
-    margin-top: 2px;
+    
 }
 
 .index__navbar-linkContainer{
-    margin-top: 2px;
 }
 
 .index__navbar-link:hover{
-    color:red;
+    color:#333231;
 }
 
 .index__home .index__home-container{
