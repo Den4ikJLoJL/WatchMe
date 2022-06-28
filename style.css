@@ -52,17 +52,21 @@ body{
 .index__home .index__home-container{
     display: flex;
     justify-content: center;
-    padding: 9vh;
+    padding-top: 5rem;
 }
 
 .index__home .index__home-container .index__home-imgContainer img{
-    width: 700px;
-    height: 700px;
+    width: 600px;
+    height: 600px;
 }
 
 .index__home-mainText{
     color: #fff;
     font-size: 4rem;
+}
+
+.index__home-descriptionContainer{
+    margin-top: 8rem;
 }
 
 .index__home-description{
