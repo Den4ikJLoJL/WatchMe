@@ -123,16 +123,45 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .index__core-heading{
     text-align: center;
+    color: #fff;
 }
 
 .index__core-imgContainer img{
     height: 75vh;
     padding:3rem 0;
 }
+
+.index__core-boxContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex:1 1 70rem;
+}
+
+.index__core-box{
+    margin:2rem;
+    padding:2rem;
+    width:27rem;
+    box-shadow: 0 0 1rem rgba(0,0,0,.5);
+    background:#444;
+    border-radius: .5rem;
+}
+
+.index__core-box h3{
+    color: #fff;
+} 
+
+.index__core-box h3 i{
+    padding-right: 10px;
+}
+
+
 
 
 
