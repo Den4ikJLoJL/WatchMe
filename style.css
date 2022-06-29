@@ -65,6 +65,9 @@ body{
     color:#333231;
 }
 
+.index__home{
+    height: 100vh;
+}
 
 .index__home .index__home-container{
     display: flex;
