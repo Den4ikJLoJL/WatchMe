@@ -183,26 +183,31 @@ body{
     justify-content: center;
     background-color: #1b1b1b;
     height: 65px;
+    position: relative;
 }
 
-#index__footer-github-icon{
+.index__footer-text{
+    display: flex;
+    justify-content: center;
+}
+
+#index__footer-icon{
     color: white;
     text-decoration: none;
     font-size: 20px;
     margin-left: 15px;
 }
 
-.index__footer-icons{
-    margin-left: 50px;
-}
 
-.index__footer-textFollow{
-    margin-left: 100px;
+.index__footer-FollowText{
     font-size: 20px;
     color: white;
 }
 
-.index__footer-textCreators{
+.index__footer-CreatorsText{
     color: white;
-    font-size: 20px;
+}
+
+.index__footer-content{
+    
 }
